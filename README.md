@@ -1,1 +1,1 @@
-# scala.is.the.new.javascript
+# scala
